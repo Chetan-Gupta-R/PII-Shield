@@ -37,7 +37,7 @@ piishield/
 
 ### 1. Clone & Set Up Environment
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Chetan-Gupta-R/PII-Shield
 cd piishield
 python -m venv venv
 
